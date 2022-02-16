@@ -2,7 +2,7 @@ name: "Emanuele Murgolo"
 navbar:
   left:
     - text: "Home"
-      href: index.html
+      href: https://emanuelemurgolo.github.io/emanuelemurgolo/
     - text: "Conferences"
       href: conferences.html
     - text: "Publications"
