@@ -1,0 +1,8 @@
+---
+title: "My websie"
+---
+
+This is Emanuele
+
+<img src="files/Foto.jpg" style="width:50%">
+
