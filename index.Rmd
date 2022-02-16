@@ -1,15 +1,8 @@
 ---
 title: "Emanuele Murgolo"
-output: html_document
 ---
-<div class="fluid-row" id="header">
 
-<h2 style="text-align: center;">
-
-
-<img loading="lazy" src= "files/Foto.jpg" width="494" height="350">
-</h2>
-</div>
+<img src="files/Foto.jpg" width="494" height="350">
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
