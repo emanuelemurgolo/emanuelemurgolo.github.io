@@ -1,5 +1,6 @@
 name: "Emanuele Murgolo"
 navbar:
+  title: "My Website"
   left:
     - text: "Home"
       href: index.html
