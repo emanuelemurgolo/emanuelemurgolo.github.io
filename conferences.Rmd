@@ -1,5 +1,6 @@
 ---
 title: "Conferences"
+output: html_document
 ---
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">

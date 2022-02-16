@@ -1,5 +1,6 @@
 ---
 title: "Working Papers"
+output: html_document
 ---
 
 
